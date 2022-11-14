@@ -1,0 +1,10 @@
+/* default theme */
+:root {
+    --primary-background-color: #d8e2f8;
+    --primary-text-color:#0f6cbd; 
+    --secondary-text-color:#113f67;
+    --icon-highlight:#3291e4;
+    --textbox-color:#99b2e6;
+    --select-color:#f5f8fc;
+    
+}

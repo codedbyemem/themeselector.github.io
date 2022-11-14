@@ -1,0 +1,10 @@
+/* dark theme */
+:root {
+    --primary-background-color: #000000;
+    --primary-text-color: #585868;
+    --secondary-text-color: #0d0e0f;
+    --icon-highlight: #a0a0b2;
+    --textbox-color: #3a3a42;
+    --select-color: #3a3a42;
+
+}
